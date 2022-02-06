@@ -25,8 +25,8 @@ No, the slope of the linear model is NOT considered to be zero. p vlaue is less 
 ### Deliverable 2 -  Summary Statistics on Suspension Coils
 
 <p align="center">
-<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del2_Total_Summary.png" width="500" height="110"/>
-<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del2_Lot_Summary.png" width="410" height="70"/>
+<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del2_Total_Summary.png" />
+<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del2_Lot_Summary.png"/>
 </p>
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
@@ -36,8 +36,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ### Deliverable 3 -  T-Test on Suspension Coils
 
 <p align="center">
-<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del3_Total_T_Test.png" width="410" height="70"/>
-<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del3_Lot_T_Test.png" width="500" height="110"/>
+<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del3_Total_T_Test.png" />
+<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del3_Lot_T_Test.png" />
 </p>
 
 * **For all manufacturing lots in total** :  Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
