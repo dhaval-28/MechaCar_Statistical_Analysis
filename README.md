@@ -49,12 +49,12 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ### Deliverable 4 -  Design a Study Comparing the MechaCar to the Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
-*  What metric or metrics are you going to test? :   safety ratings of the MechaCar vehicles are the same as other manufacturers.
-*  What is the null hypothesis or alternative hypothesis?
+*  **What metric or metrics are you going to test?** :   safety ratings of the MechaCar vehicles are the same as other manufacturers.
+*  **What is the null hypothesis or alternative hypothesis?**
     * H0 : There is no difference in safety rating of the MechaCar vehicles and competitors vehicles.
     * Ha : Safety ratings of the MechaCar vehicles are better than the competitors vehicles.
 
-*  What statistical test would you use to test the hypothesis? And why?
+*  **What statistical test would you use to test the hypothesis? And why?**
     We would use ANOVA test. It would identify statistical difference between the distribution means from multiple samples. 
 
-*  What data is needed to run the statistical test? We would need safety ratings for MechaCar vehicles and other manufacturers.
+*  **What data is needed to run the statistical test?** We would need safety ratings for MechaCar vehicles and other manufacturers.
