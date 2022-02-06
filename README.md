@@ -12,13 +12,13 @@
 <img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del1_Multiple_Linear_Summary.png" />
 </p>
 
-* 1 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+* **1 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
 Two Variables : vehicle_length , ground_clearance.  The variance for these two variables is close to 0. 
 
-* 2 Is the slope of the linear model considered to be zero? Why or why not?
+* **2 Is the slope of the linear model considered to be zero? Why or why not?**
 No, the slope of the linear model is NOT considered to be zero. p vlaue is less than 5% significance value. It means there are sufficient evidence to reject the null hypothesis and m ≠ 0 (alternative hypothesis)
 
-* 3 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+* **3 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
    Yes it does. r-squared (r2) is 0.68.  To quantify how well our linear model can be used to predict future observations, our linear regression functions will calculate an r-squared value. The r-squared (r2) value is also known as the coefficient of determination and represents how well the regression model approximates real-world data points.
 
 
