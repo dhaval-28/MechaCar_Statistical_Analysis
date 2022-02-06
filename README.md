@@ -31,7 +31,7 @@ No, the slope of the linear model is NOT considered to be zero. p vlaue is less 
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
 * **For all manufacturing lots in total** : total variance is 62 which is less than 100 pounds. So it does mee the specification. 
-* **Each lot individually** Lot 3 has variance of 170 which exceed 100. So it does not meet the specifications. 
+* **Each lot individually** Lot 3 has variance of 170 which exceeds 100. So it does not meet the specifications. 
 
 ### Deliverable 3 -  T-Test on Suspension Coils
 
