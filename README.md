@@ -55,7 +55,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ### Deliverable 4 -  Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
-*  **What metric or metrics are you going to test?** :   safety ratings of the MechaCar vehicles are the same as other manufacturers.
+*  **What metric or metrics are you going to test?** :  Compare the safety ratings of the MechaCar vehicles vs. safety ratings of other manufacturers vehicles.
 *  **What is the null hypothesis or alternative hypothesis?**
     * H0 : There is no difference in safety rating of the MechaCar vehicles and competitors vehicles.
     * Ha : Safety ratings of the MechaCar vehicles are better than the competitors vehicles.
