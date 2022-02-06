@@ -52,7 +52,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
   * Lot 1 & 2 : For Lot1 & 2 , p-value is above our significance level. Therefore , we don't have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
   * Lot 3 : For Lot3 , p-value is below our significance level. Therefore , there are sufficient evidence to reject the null hypothesis.
 
-### Deliverable 4 -  Design a Study Comparing the MechaCar to the Competition
+### Deliverable 4 -  Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
 *  **What metric or metrics are you going to test?** :   safety ratings of the MechaCar vehicles are the same as other manufacturers.
