@@ -36,7 +36,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ### Deliverable 3 -  T-Test on Suspension Coils
 
 <p align="center">
-<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del3_Total_T_Test.png" />
+<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del3_Total_T_Test.png" /><br>
 <img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del3_Lot_T_Test.png" />
 </p>
 
