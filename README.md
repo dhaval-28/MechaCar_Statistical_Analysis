@@ -8,8 +8,8 @@
 ### Deliverable 1 -  Linear Regression to Predict MPG
 
 <p align="center">
-<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del1_Multiple_Linear_Regression.png width="600" height="120"/><br>
-<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del1_Multiple_Linear_Summary.png" width="500" height="110"/>
+<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del1_Multiple_Linear_Regression.png /><br>
+<img src = "https://github.com/dhaval-28/MechaCar_Statistical_Analysis/blob/main/Images/Del1_Multiple_Linear_Summary.png" />
 </p>
 
 * 1 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
