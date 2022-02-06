@@ -51,8 +51,8 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 
 *  What metric or metrics are you going to test? :   safety ratings of the MechaCar vehicles are the same as other manufacturers.
 *  What is the null hypothesis or alternative hypothesis?
-    H0 : There is no difference in safety rating of the MechaCar vehicles and competitors vehicles.
-    Ha : Safety ratings of the MechaCar vehicles are better than the competitors vehicles.
+    * H0 : There is no difference in safety rating of the MechaCar vehicles and competitors vehicles.
+    * Ha : Safety ratings of the MechaCar vehicles are better than the competitors vehicles.
 
 *  What statistical test would you use to test the hypothesis? And why?
     We would use ANOVA test. It would identify statistical difference between the distribution means from multiple samples. 
